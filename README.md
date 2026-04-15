@@ -1,5 +1,5 @@
 # Trader Performance vs Market Sentiment (Fear/Greed)
-### Primetrade.ai — Data Science Intern Assignment
+### Primetrade.ai — Yashvi Patodi
 
 ---
 
